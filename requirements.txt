@@ -1,9 +1,5 @@
-# Telegram bot
-python-telegram-bot==20.7
-
-# OpenAI API
+python-telegram-bot==20.6.3
 openai==1.8.4
-
-# Дополнительные зависимости, которые часто нужны
 requests==2.31.0
 aiohttp==3.9.5
+httpx==0.25.2
